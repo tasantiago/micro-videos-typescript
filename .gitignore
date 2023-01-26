@@ -1,3 +1,5 @@
 .history/
 node_modules/
 tsconfig.tsbuildinfo
+.npmrc
+package-lock.json
