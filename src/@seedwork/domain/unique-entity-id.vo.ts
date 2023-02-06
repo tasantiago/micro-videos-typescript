@@ -1,4 +1,4 @@
-import {v4 as uuidV4, validate as uuidValidate} from "uuid"
+import {v4 as uuidV4, validate as uuidValidate} from "uuid";
 import invalidUuidError from "../errors/invalid-uuid.error";
 
 export default class UniqueEntityId{
